@@ -1,18 +1,18 @@
 {
-  "name": "react_starter",
+  "name": "bunny-do-list",
   "version": "1.0.0",
-  "description": "Starting setup for react redux project",
+  "description": "To Do List featuring bunny themed code. Created to be a practice area for focusing on React functionality vs. naming. Also bunnies.",
   "main": "index.js",
   "scripts": {
     "start": "node dev_server.js",
     "bundle": "webpack --config webpack.prod.js --progress",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Scott Bowler",
+  "author": "Steffany Gross",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Learning-Fuze/react_starter.git"
+    "url": "https://github.com/Allurien/bunny-do.git"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
